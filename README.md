@@ -12,8 +12,7 @@ JustATeam
 
 Piotr Bukowiec Walker91XD#7696
 Sebastian Andre Coronado Chichiraky coronado03 
-Anita Karabanowicz @Alaire1
-
+**[Anita Karabanowicz](https://github.com/Alaire1)**
 
 ## Tech Stack
 
