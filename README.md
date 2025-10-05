@@ -10,9 +10,11 @@ JustATeam
 
 ## Team Members
 
-Piotr Bukowiec Walker91XD#7696
-**[Sebastian Andre Coronado Chichiraky ](https://github.com/coronado03)**
-**[Anita Karabanowicz](https://github.com/Alaire1)**
+**[Piotr Bukowiec ](https://github.com/Alaire1)** |
+**[Sebastian Andre Coronado Chichiraky ](https://github.com/coronado03)** |
+**[Anita Karabanowicz](https://github.com/Alaire1)** |
+**[Michał Greczkowski](https://github.com/ViK0s)** |
+**[Yuri Evgeny De Joya](https://github.com/YedYederYedest)**
 
 ## Tech Stack
 
