@@ -11,7 +11,8 @@ JustATeam
 ## Team Members
 
 Piotr Bukowiec Walker91XD#7696
-Sebastian Andre Coronado Chichiraky coronado03
+Sebastian Andre Coronado Chichiraky coronado03 
+Anita Karabanowicz @Alaire1
 
 
 ## Tech Stack
